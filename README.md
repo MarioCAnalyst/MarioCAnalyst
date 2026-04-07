@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hola, Soy Mario Cajal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<!--
-**MarioCAnalyst/MarioCAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="300" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Perfil
+**Analista Programador Jr | Estudiante de Ingeniería en Sistemas**
+
+### 📖 Acerca de Mí
+Soy un apasionado por el desarrollo de software, actualmente cursando el **4to año de la carrera** y trabajando en el **sector IT**. Me enfoco en crear soluciones eficientes y sigo expandiendo mis habilidades hacia el **Full Stack Development**.
+
+---
+
+### 🛠️ Actualmente manejo 👨🏻‍💻
+
+**Desarrollo y Programación**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,mysql,dotnet,visualstudio,vscode&perline=14" />
+  </a>
+</p>
+
+**Análisis de Datos**
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
+**⚙️**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure&perline=14" />
+  </a>
+</p>
+
+**💻**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows&perline=14" />
+  </a>
+</p>
+
+---
+
+### 🎯 Objetivos para 2026
+- 🚀 **Perfeccionar** mis habilidades técnicas y blandas.
+- 🎓 **Avanzar** en el tramo final de Ingeniería en Sistemas.
+- 🏗️ **Construir** proyectos Full Stack robustos y escalables.
+
+---
+
+### 📫 Contacto
+<p align="left">
+<a href="TU_LINK_DE_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mario Cajal" height="30" width="40" /></a>
+<a href="TU_LINK_DE_PORTAFOLIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portafolio" height="30" width="40" /></a>
+</p>
+
+---
