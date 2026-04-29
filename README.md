@@ -10,7 +10,7 @@
 **Analista Programador Jr | Estudiante de Ingeniería en Sistemas**
 
 ### 📖 Acerca de Mí
-Soy un apasionado por el desarrollo de software, actualmente cursando el **4to año de la carrera** y trabajando en el **sector IT**. Me enfoco en crear soluciones eficientes y sigo expandiendo mis habilidades hacia el **Full Stack Development**.
+Soy un apasionado por el análisis y desarrollo de software, actualmente cursando el **4to año de la carrera** y trabajando en el **sector IT**. Me enfoco en crear soluciones eficientes, buscando mejorar mis habilidades constantemente.
 
 ---
 
@@ -31,14 +31,14 @@ Soy un apasionado por el desarrollo de software, actualmente cursando el **4to a
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
 
-**⚙️**
+**Control de Versionado y DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,azure&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,azure&perline=14" />
   </a>
 </p>
 
-**💻**
+**Sistema Operativo**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows&perline=14" />
@@ -47,16 +47,11 @@ Soy un apasionado por el desarrollo de software, actualmente cursando el **4to a
 
 ---
 
-### 🎯 Objetivos para 2026
-- 🚀 **Perfeccionar** mis habilidades técnicas y blandas.
-- 🎓 **Avanzar** en el tramo final de Ingeniería en Sistemas.
-- 🏗️ **Construir** proyectos Full Stack robustos y escalables.
-
----
-
 ### 📫 Contacto
 <p align="left">
 <a href="TU_LINK_DE_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mario Cajal" height="30" width="40" /></a>
+
+  
 <a href="TU_LINK_DE_PORTAFOLIO" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Portafolio" height="30" width="40" /></a>
 </p>
 
